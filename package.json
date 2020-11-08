@@ -12,6 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "sass": "^1.26.11",
     "yeoman-generator": "^4.12.0"
   },
   "devDependencies": {
